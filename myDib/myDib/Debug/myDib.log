@@ -1,0 +1,35 @@
+﻿生成启动时间为 2015/11/9 18:01:02。
+     1>项目“C:\Users\dell\Desktop\我的图像处理\myDib\myDib\myDib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013installed\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\myDib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChigpassPara.cpp GeoTransDlg.cpp LPLSDlg.cpp MainFrm.cpp myDib.cpp myDibDoc.cpp myDibView.cpp
+         myDibView.cpp
+     1>c:\users\dell\desktop\我的图像处理\mydib\mydib\mydibview.cpp(445): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\我的图像处理\mydib\mydib\mydibview.cpp(446): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\我的图像处理\mydib\mydib\mydibview.cpp(447): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         myDibDoc.cpp
+         MainFrm.cpp
+         LPLSDlg.cpp
+         GeoTransDlg.cpp
+         ChigpassPara.cpp
+         myDib.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\myDib.res" myDib.rc 
+       Link:
+         E:\vs2013installed\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dell\Desktop\我的图像处理\myDib\Debug\myDib.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\vs2013installed\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\dell\Desktop\我的图像处理\myDib\Debug\myDib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dell\Desktop\我的图像处理\myDib\Debug\myDib.lib" /MACHINE:X86 Debug\myDib.res
+         Debug\ChigpassPara.obj
+         Debug\DibImage.obj
+         Debug\GeoTransDlg.obj
+         Debug\LPLSDlg.obj
+         Debug\MainFrm.obj
+         Debug\myDib.obj
+         Debug\myDibDoc.obj
+         Debug\myDibView.obj
+         Debug\stdafx.obj
+         myDib.vcxproj -> C:\Users\dell\Desktop\我的图像处理\myDib\Debug\myDib.exe
+     1>已完成生成项目“C:\Users\dell\Desktop\我的图像处理\myDib\myDib\myDib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.45
